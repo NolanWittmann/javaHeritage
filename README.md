@@ -1,4 +1,2 @@
-# javaHeritage
-# javaHeritage
-# Heritage
+
 # Heritage
